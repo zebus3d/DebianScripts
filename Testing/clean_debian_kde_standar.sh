@@ -5,7 +5,7 @@
 # WHITELISTS:
 wl_plasma="plasma-desktop plasma-workspace dolphin kate kdialog kfind konsole udisks2 upower kwin-x11 sddm xserver-xorg ark gwenview kcalc kde-spectacle knotes kwalletmanager okular plasma-dataengines-addons plasma-pa plasma-runners-addons plasma-wallpapers-addons plasma-widgets-addons polkit-kde-agent-1 sweeper plasma-nm skanlite apper print-manager fonts-symbola iw x11-apps x11-session-utils xinit xorg"
 wl_live_task_standard="apt-listchanges bash-completion bind9-host bzip2 dbus libpam-systemd file gettext-base groff-base krb5-locales libc-l10n liblockfile-bin libnss-systemd locales lsof man-db media-types openssh-client pciutils perl python3 traceroute ucf usbutils wget xz-utils"
-wl_zebus="vim build-essential mesa-utils git gpm curl acpi acpid powertop iptables firewalld plasma-firewall aspell aspell-es pipewire pipewire-audio-client-libraries pulseaudio-utils wireplumber libspa-0.2-bluetooth"
+wl_zebus="vim build-essential mesa-utils git gpm curl acpi acpid powertop iptables firewalld plasma-firewall aspell aspell-es pipewire pipewire-audio-client-libraries pulseaudio-utils wireplumber libspa-0.2-bluetooth keepassxc"
 
 # BLACKLISTS:
 bl_plasma="kde-plasma-desktop task-kde-desktop kde-standard kwrite kontrast kdeaccessibility kde-baseapps konqueror konq-plugins akregator dragonplayer juk kaddressbook khelpcenter kmail korganizer keditbookmarks kwrite plasma-browser-integration libreoffice* pocketsphinx-en-us espeak-ng-data partitionmanager libreoffice-style-breeze kmouth xterm exim4-base zutty plasma-welcome"
