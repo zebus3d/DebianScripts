@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Debian testing trixie
+# Debian 12 testing (trixie) 2024
 
 # View status:
 # systemctl status --user pipewire
