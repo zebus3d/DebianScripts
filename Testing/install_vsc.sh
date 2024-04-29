@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 
 sudo apt install wget gpg
 cd /tmp
